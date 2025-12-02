@@ -89,22 +89,24 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
    1. input the query or passage twice.
    2. improve the embedding of the last token.
 7. [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders](https://arxiv.org/pdf/2404.05961), Parishad BehnamGhader, et al., COLM2024
-8. [NV-Retriever: Improving text embedding models with effective hard-negative mining](https://arxiv.org/pdf/2407.15831), Gabriel de Souza P. Moreira, Feb 2025, Arxiv
-9. [ScalingNote: Scaling up Retrievers with Large Language Models for Real-World Dense Retrieval](https://arxiv.org/pdf/2411.15766), Suyuan Huang, et al., 
-10. [Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling](https://arxiv.org/pdf/2504.05216), Hengran Zhang, et al., Arxiv2025
-11. [Scaling Sparse and Dense Retrieval in Decoder-Only LLMs](https://arxiv.org/abs/2502.15526), Hansi Zeng, et al., SISGIR25
-12. Gemini key technologies: [Gecko: Versatile Text Embeddings Distilled from Large Language Models](https://arxiv.org/pdf/2403.20327) Jinhyuk Lee, et al., 9 Mar 2024, Arxiv
-13. NovaSearch [Jasper and Stella: distillation of SOTA embedding models](https://arxiv.org/pdf/2403.20327) Dun Zhang, et al., 23 Jan 2025, Arxiv
-14. [Linq-Embed-Mistral Report](https://huggingface.co/Linq-AI-Research/Linq-Embed-Mistral/blob/main/LinqAIResearch2024_Linq-Embed-Mistral.pdf) Junseong Kim, et al., May 2024
-15. [PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval](https://arxiv.org/pdf/2404.18424) Shengyao Zhuang, et al., EMNLP2024
-16. [Scaling sentence embeddings with large language models](https://arxiv.org/abs/2307.16645) Ting Jiang, et al., EMNLP2024 Findings
-17. [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/abs/2410.15035) Mingxin Li, et al., Oct 2024
-18. Qwen3-text-embedding: [Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models](https://arxiv.org/pdf/2506.05176) Yanzhao Zhang et al., Jun 2025
-19. Gemini: [Generalizable Embeddings from Gemini](https://arxiv.org/abs/2503.07891) Jinhyuk Lee, et al., Mar 2025
-20. BGE-en-icl: [Making Text Embedders Few-Shot Learners](https://arxiv.org/abs/2409.15700) Chaofan Li, et al., ICLR2025
-21. [QZhou-Embedding Technical Report](https://arxiv.org/abs/2508.21632) Peng Yu, et al., Arxiv2025
-22. [Learning Refined Document Representations for Dense Retrieval via Deliberate Thinking](https://arxiv.org/abs/2502.12974) Yifan Ji, et al., SIGIR-AP2025
-23. [O1Embedder: Let Retrievers Think Before Action](https://arxiv.org/abs/2502.07555) Ruiran Yan, et al., Arxiv2025
+8. [Decoder-Only LLMs can be Masked Auto-Encoders](https://aclanthology.org/2025.acl-short.57.pdf) Dan Qiao, et al., ACL2025 short
+9. [NV-Retriever: Improving text embedding models with effective hard-negative mining](https://arxiv.org/pdf/2407.15831), Gabriel de Souza P. Moreira, Feb 2025, Arxiv
+10. [ScalingNote: Scaling up Retrievers with Large Language Models for Real-World Dense Retrieval](https://arxiv.org/pdf/2411.15766), Suyuan Huang, et al., 
+11. [Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling](https://arxiv.org/pdf/2504.05216), Hengran Zhang, et al., Arxiv2025
+12. [Scaling Sparse and Dense Retrieval in Decoder-Only LLMs](https://arxiv.org/abs/2502.15526), Hansi Zeng, et al., SISGIR25
+13. Gemini key technologies: [Gecko: Versatile Text Embeddings Distilled from Large Language Models](https://arxiv.org/pdf/2403.20327) Jinhyuk Lee, et al., 9 Mar 2024, Arxiv
+14. NovaSearch [Jasper and Stella: distillation of SOTA embedding models](https://arxiv.org/pdf/2403.20327) Dun Zhang, et al., 23 Jan 2025, Arxiv
+15. [Linq-Embed-Mistral Report](https://huggingface.co/Linq-AI-Research/Linq-Embed-Mistral/blob/main/LinqAIResearch2024_Linq-Embed-Mistral.pdf) Junseong Kim, et al., May 2024
+16. [PromptReps: Prompting Large Language Models to Generate Dense and Sparse Representations for Zero-Shot Document Retrieval](https://arxiv.org/pdf/2404.18424) Shengyao Zhuang, et al., EMNLP2024
+17. [Scaling sentence embeddings with large language models](https://arxiv.org/abs/2307.16645) Ting Jiang, et al., EMNLP2024 Findings
+18. [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/abs/2410.15035) Mingxin Li, et al., Oct 2024
+19. Qwen3-text-embedding: [Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models](https://arxiv.org/pdf/2506.05176) Yanzhao Zhang et al., Jun 2025
+20. Gemini: [Generalizable Embeddings from Gemini](https://arxiv.org/abs/2503.07891) Jinhyuk Lee, et al., Mar 2025
+21. BGE-en-icl: [Making Text Embedders Few-Shot Learners](https://arxiv.org/abs/2409.15700) Chaofan Li, et al., ICLR2025
+22. [QZhou-Embedding Technical Report](https://arxiv.org/abs/2508.21632) Peng Yu, et al., Arxiv2025
+23. [Learning Refined Document Representations for Dense Retrieval via Deliberate Thinking](https://arxiv.org/abs/2502.12974) Yifan Ji, et al., SIGIR-AP2025
+24. [O1Embedder: Let Retrievers Think Before Action](https://arxiv.org/abs/2502.07555) Ruiran Yan, et al., Arxiv2025     
+25. [Jasper-Token-Compression-600M Technical Report](https://arxiv.org/abs/2511.14405) Dun Zhang, et al., 18 Nov Arxiv2025
 
 
 #### Model Merging
