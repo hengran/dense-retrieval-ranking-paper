@@ -64,8 +64,8 @@
    6. CONTEXT-AUGMENTED CODE GENERATION USING PROGRAMMING KNOWLEDGE GRAPHS,  Iman Saberi, et.al., 2024.10.9
    7. Evaluating Retrieval Quality in Retrieval-Augmented Generation.  Alireza Salem, et al., SIGIR2024
    8. Bridging the Preference Gap between Retrievers and LLMs. Zixuan Ke et al. ACL2024
-   9. Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation. Hengran Zhang, Minghao Tang, et al., EMNLP2025 Main
-   10. Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation. Hengran Zhang, et al, SIGIR-AP25
+   9. Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation. Hengran Zhang, Minghao Tang, et al., EMNLP2025 Main
+   10. Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation. Hengran Zhang, et al., SIGIR-AP25
 2. Query reformulation
    1.   [Large Language Models are Strong Zero-Shot Retriever](https://arxiv.org/pdf/2304.14233) Tao Shen, et al., ACL2024 Findings
    2.   [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://aclanthology.org/2023.acl-long.99.pdf)Luyu Gao, et al., ACL2023
