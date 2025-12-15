@@ -112,7 +112,7 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 #### Model Merging
 1. [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)
 2. [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/pdf/2410.15035) Mingxin Li, et al., Arxiv2024
-3. [A Systematic Study of Model Merging Techniques in Large Language Models]  Oğuz Kağan Hitit, et al., 26 Nov 2025 Arxiv
+3. [A Systematic Study of Model Merging Techniques in Large Language Models](https://arxiv.org/html/2511.21437v1)  Oğuz Kağan Hitit, et al., 26 Nov 2025 Arxiv
 
 
 
