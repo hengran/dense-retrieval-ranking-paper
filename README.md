@@ -66,6 +66,7 @@
    8. Bridging the Preference Gap between Retrievers and LLMs. Zixuan Ke et al. ACL2024
    9. Utility-Focused LLM Annotation for Retrieval and Retrieval-Augmented Generation. Hengran Zhang, Minghao Tang, et al., EMNLP2025 Main
    10. Distilling a Small Utility-Based Passage Selector to Enhance Retrieval-Augmented Generation. Hengran Zhang, et al., SIGIR-AP25
+   11. SelfRACG: Enabling LLMs to Self-Express and Retrieve for Code Generation. Qian Dong, et al., EMNLP2025 Main.
 2. Query reformulation
    1.   [Large Language Models are Strong Zero-Shot Retriever](https://arxiv.org/pdf/2304.14233) Tao Shen, et al., ACL2024 Findings
    2.   [Precise Zero-Shot Dense Retrieval without Relevance Labels](https://aclanthology.org/2023.acl-long.99.pdf)Luyu Gao, et al., ACL2023
