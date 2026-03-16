@@ -108,12 +108,15 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 23. [Learning Refined Document Representations for Dense Retrieval via Deliberate Thinking](https://arxiv.org/abs/2502.12974) Yifan Ji, et al., SIGIR-AP2025
 24. [O1Embedder: Let Retrievers Think Before Action](https://arxiv.org/abs/2502.07555) Ruiran Yan, et al., Arxiv2025     
 25. [Jasper-Token-Compression-600M Technical Report](https://arxiv.org/abs/2511.14405) Dun Zhang, et al., 18 Nov Arxiv2025
+26. [Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720) Mingxin Li, at el., Arxiv2026
+27. [Bagging-Based Model Merging for Robust General Text Embeddings](https://arxiv.org/abs/2602.05787) Hengran Zhang, et.al., Arxiv2026
 
 
 #### Model Merging
 1. [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)
 2. [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/pdf/2410.15035) Mingxin Li, et al., Arxiv2024
 3. [A Systematic Study of Model Merging Techniques in Large Language Models](https://arxiv.org/html/2511.21437v1)  Oğuz Kağan Hitit, et al., 26 Nov 2025 Arxiv
+4. [Bagging-Based Model Merging for Robust General Text Embeddings](https://arxiv.org/abs/2602.05787) Hengran Zhang, et.al., Arxiv2026
 
 
 
@@ -152,11 +155,13 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 4. [Self-Calibrated Listwise Reranking with Large Language Models](https://arxiv.org/pdf/2411.04602) Ruiyang Ren, et al., WWW25
 5. [Adapting Decoder-Based Language Models for Diverse Encoder Downstream Tasks](https://arxiv.org/pdf/2503.02656) Paul Suganthan, et al., March Arxiv2025
 6. [Sliding windows are not the end: Exploring full ranking with long-context large language models](https://aclanthology.org/2025.acl-long.8/). Wenhan Liu, et al., ACL 2025 main
+
 ### Reinforcement Learning 
 1. [REARANK: Reasoning Re-ranking Agent via Reinforcement Learning.](https://aclanthology.org/2025.emnlp-main.125/) Le Zhang, et al., EMNLP 2025 main
 1. [GroupRank: A Groupwise Reranking Paradigm Driven by Reinforcement Learning](https://www.arxiv.org/abs/2511.11653). Duolin Sun, et al., Arxiv2025.11
 2. [Listwise Learning to Rank with Deep Q-Networks.](https://arxiv.org/abs/2002.07651) Abhishek Sharma, et al., Arxiv2020
 3. [Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning.](https://arxiv.org/abs/2503.06034) Shengyao Zhuang, et al., Arxiv2025.03
+
 
 
 ## Efficient Ranking for LLMs: long document compression during listwise ranking
