@@ -122,6 +122,8 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 1. [RaDeR: Reasoning-aware Dense Retrieval Models](https://arxiv.org/abs/2505.18405) Debrup Das, et al., EMNLP2025
 2. [LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval] Jiajie Jin, et al., SIGIR2026
 3. [PLUME: Latent Reasoning Based Universal Multimodal Embedding] Chenwei He, et al., Arxiv2026
+4. [Large Reasoning Embedding Models: Towards Next-Generation Dense Retrieval Paradigm](https://dl.acm.org/doi/10.1145/3774904.3792826#) Jianting Tang, et al., WWW26
+5. [ReasonEmbed: Enhanced Text Embeddings for Reasoning-Intensive Document Retrieval](https://arxiv.org/abs/2510.08252) Jianlyu Chen, et al., ACL2026
 
 
 
