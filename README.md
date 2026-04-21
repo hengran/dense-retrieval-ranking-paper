@@ -118,6 +118,10 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 3. [A Systematic Study of Model Merging Techniques in Large Language Models](https://arxiv.org/html/2511.21437v1)  Oğuz Kağan Hitit, et al., 26 Nov 2025 Arxiv
 4. [Bagging-Based Model Merging for Robust General Text Embeddings](https://arxiv.org/abs/2602.05787) Hengran Zhang, et.al., Arxiv2026
 
+#### Reasoning
+1. [RaDeR: Reasoning-aware Dense Retrieval Models](https://arxiv.org/abs/2505.18405) Debrup Das, et al., EMNLP2025
+2. [LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval] Jiajie Jin, et al., SIGIR2026
+3. [PLUME: Latent Reasoning Based Universal Multimodal Embedding] Chenwei He, et al., Arxiv2026
 
 
 
@@ -161,6 +165,7 @@ Dense Retrieval](https://aclanthology.org/2024.acl-long.191/) (ACL 2024)**
 1. [GroupRank: A Groupwise Reranking Paradigm Driven by Reinforcement Learning](https://www.arxiv.org/abs/2511.11653). Duolin Sun, et al., Arxiv2025.11
 2. [Listwise Learning to Rank with Deep Q-Networks.](https://arxiv.org/abs/2002.07651) Abhishek Sharma, et al., Arxiv2020
 3. [Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning.](https://arxiv.org/abs/2503.06034) Shengyao Zhuang, et al., Arxiv2025.03
+
 
 
 
